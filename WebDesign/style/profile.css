@@ -1,0 +1,9 @@
+.inputProfile{
+    background-color: white;
+}
+
+.fixed-textarea{
+    width: 100%;
+    height: 150px;
+    border: none;
+}
